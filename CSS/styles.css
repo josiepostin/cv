@@ -1,0 +1,173 @@
+/* html tags goes up here*/
+body{
+  
+    color:#40514E;
+    margin:0;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    
+}
+
+h1{
+    margin:10px auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+    font-size:5.625rem;
+    color:#66BFBF;
+}
+
+h2{
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color:#11999E;
+}
+.p {
+    line-height: 2px;
+}
+
+hr{
+    border:dotted #EAF6F6 6px;
+    border-bottom:none;
+    width:4%;
+    margin: 100px auto;
+}
+
+/*
+Not good coding - it is messy
+.hruler{
+    width: 85px;
+    height: 1px;
+    border-style: dotted hidden hidden hidden;
+    border-color: #EAF6F6;
+    border-width: 10px;
+    margin: 100px auto 100px auto;
+}
+*/
+/* css tags goes down here*/
+.top-container{
+    background-color: #EAF6F6;
+    position:relative;
+    padding-top: 100px;
+    margin-bottom: 0;
+
+}
+.mountain{
+    width: 500px;
+    height: 298.484px;
+}
+
+.middle-container{
+    margin-top: 75px;
+}
+.hello-description{
+    text-align: center;
+}
+
+.profile{
+    width: 50%;
+    position: relative;
+    margin:0 auto 0 auto;
+    color:#40514E
+    
+}
+
+.profile-pic{
+    height: 150px;
+    width: 150px;
+    border-radius:100%;
+}
+
+
+.skill-row{
+    width:50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+
+.code-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.marketing-img{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-cloud{
+
+    position: absolute;
+    right:225px;
+    top:50px;
+}
+    
+
+.bottom-cloud{
+    position: absolute;
+    left:200px;
+    bottom:300px;
+}
+.footer-link{
+    width:75px;
+    height:20px;
+    display:inline-block;
+    padding-top: 25px;
+    margin-bottom: 10px;
+    color: #11999E;
+    font-family: 'Heebo', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:#EAF6F6;
+}
+.bottom-container{
+    height:110px;
+    background-color: #66BFBF;
+    margin: 100px auto 0;
+}
+
+.btn {
+	background-color:#66BFBF;
+	border-radius:10px;
+	border:1px solid #11999E;
+	display:inline-block;
+	cursor:pointer;
+	color:#FFFFFF;
+	font-family: 'Heebo', sans-serif;
+	font-size:15px;
+	padding:10px 25px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #11999E;
+    margin-top: 50px;
+}
+.btn:hover {
+	background-color:#66BFBF;
+}
+.btn:active {
+	position:relative;
+    top:1px;
+}
+
+
+.contact-me{
+    width: 50%;
+    position: relative;
+    margin:0 auto;
+    color:#40514E;
+}
+.copyright{
+    color:#EAF6F6;
+   font-size: 0.75rem;
+}
+        
+        
