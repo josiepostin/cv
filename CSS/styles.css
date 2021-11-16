@@ -37,17 +37,6 @@ hr{
     margin: 100px auto;
 }
 
-/*
-Not good coding - it is messy
-.hruler{
-    width: 85px;
-    height: 1px;
-    border-style: dotted hidden hidden hidden;
-    border-color: #EAF6F6;
-    border-width: 10px;
-    margin: 100px auto 100px auto;
-}
-*/
 /* css tags goes down here*/
 .top-container{
     background-color: #EAF6F6;
@@ -71,7 +60,7 @@ Not good coding - it is messy
 .profile{
     width: 50%;
     position: relative;
-    margin:0 auto 0 auto;
+    margin:0 auto;
     color:#40514E
     
 }
